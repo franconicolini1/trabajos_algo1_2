@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Grid","This struct receives the number of columns in the grid (length_x), the number of rows (length_y) and a initial grid. After create the grid you must use initialize_grid."]]});
