@@ -1,0 +1,1 @@
+zyxcba: zyxcba.o hash.o abb.o especialidad.o strutil.o heap.o cola.o lista.o
